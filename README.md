@@ -1,6 +1,6 @@
-# PocketBoy – Pip's Quest
+# PocketBoy NEO – Pip's Quest
 
-A Game Boy–style handheld that runs in your phone's browser: color screen on top, touch D-pad / A / B / Start / Select below, and an original 2D platformer starring Pip the fox.
+A Game Boy–style handheld that runs in your phone's browser: color screen on top, touch D-pad / A / B / Start / Select below, and an original 2D platformer starring Pip the fox — 12 levels across 6 worlds (meadow, desert, forest, snow, crystal cave, night). Progress is saved so you can continue from the title screen.
 
 **Play:** https://consis300.github.io/PocketBoy/
 
