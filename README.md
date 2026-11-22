@@ -10,6 +10,7 @@ On iPhone: open the link in Safari → Share → **Add to Home Screen** for full
 | Game | What it is |
 |---|---|
 | Pip's Quest | 12-level platformer across 6 worlds |
+| Turbo Lane | 3D-style highway racer — dodge traffic, hit checkpoints |
 | Blockfall | Falling-block line-clearing puzzle |
 | Serpent | Grow the snake, don't bite your tail |
 | Brick Breaker | Paddle + ball brick smasher with power-ups |
@@ -18,6 +19,11 @@ On iPhone: open the link in Safari → Share → **Add to Home Screen** for full
 | Paddle Duel | Table tennis vs a CPU that gets harder |
 | Merge Up | Slide and merge number tiles to 2048 |
 | Dune Runner | Endless desert runner — jump and duck |
+| Astro Rocks | Neon space-rock shooter with UFOs |
+| Mine Field | Uncover the safe squares, flag the mines |
+| Tower Stack | Time your drops to build the tallest tower |
+
+Customize the console from SETTINGS (press SELECT on the game menu, or tap the gear): 8 shell colors, 7 button colors, screen effects (scanlines, LCD grid, CRT, retro green), button size, sound, music and haptics.
 
 Pick a cartridge with the D-pad, press A to play. START pauses (Resume / Restart / Quit to games), SELECT toggles sound, B goes back from a game's title screen. High scores are saved per game.
 Keyboard: arrows/WASD, X/Space = A, Z/Shift = B, Enter = Start, Q = Select.
